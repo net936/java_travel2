@@ -1,0 +1,5 @@
+.idea
+server/.idea
+server/target
+web/.idea
+web/node_modules
