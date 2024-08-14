@@ -6,6 +6,12 @@
 该系统旨在帮助大学生学习并掌握Java编程技能，同时锻炼他们的项目设计与开发能力。通过学习基于Java的旅游景区管理系统项目，大学生可以在实践中学习和提升自己的能力，为以后的职业发展打下坚实基础。学习过程中遇到问题可以咨询微信：Lengqin1024 或者发Email: kefu308@gmail.com
 
 
+
+
+## 在线演示
+
+演示地址：[https://travel2.gitapp.cn](https://travel2.gitapp.cn)
+
 ## 主要功能
 
 - 景区管理：管理系统可以录入、修改和查询景区的基本信息，如名称、价格、备注等。
@@ -39,13 +45,7 @@
 - 前端技术栈 ES6、vue、vuex、vue-router、vue-cli、axios、antd
 - 后端技术栈 Java、Springboot、mybatis
 
-## 源码下载
 
-https://github.com/geeeeeeeek/java_travel2
-
-## 在线演示
-
-演示地址：[https://travel2.gitapp.cn](https://travel2.gitapp.cn)
 
 ## 运行步骤
 
